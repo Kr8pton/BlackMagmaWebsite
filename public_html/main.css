@@ -1,0 +1,16 @@
+Body{
+    
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+   
+}
+
+#mainBackgroundDiv{
+    
+    height: 100%;
+    width: 100%;
+    background-color: #4b689c;
+    
+}
+
