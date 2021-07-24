@@ -1,16 +1,97 @@
-Body{
+html, body{
     
    margin: 0px;
-   min-height: 100%;
+   height: 100%;
    width: 100%;
    
 }
 
-#mainBackgroundDiv{
+#leftMainBackgroundDiv{
     
     height: 100%;
-    width: 100%;
-    background-color: #4b689c;
+    width: 72%;
+    
+    background-color: #454545;/*dark*/
+    float: left;
+    
+    
+  
+}
+#rightMainBackgroundDiv{
+    
+    height: 100%;
+    width: 28%;
+    
+    background-color: #ffffff;/*dark*/
+    float: right;
+   
+    
+    
+  
+}
+#mainHeading{
+    
+    text-align: right;
+    color: #454545;
+    font-family: "Agency FB";
+    font-size: 60pt;
+    padding-right: 10%;
+    
+    
+    
     
 }
+#pageName{
+    
+    text-align: right;
+    font-family: "Agency FB";
+    color: #767676;
+    font-size: 20pt;
+    padding-right: 10%;
+    
+   
+}
+
+#buttonInstagram{
+    
+    
+    float: right;
+    margin-right: 10%;
+    
+    
+}
+#buttonEmail{
+    
+   float: right;
+   margin-right: 1%;
+    
+    
+}
+.topImageDiv{
+    
+   padding-top: 10%; 
+   
+    float: right;
+    padding-right: 3%;
+    
+}
+.bottomImageDiv{
+    
+     
+    float: right;
+    padding-right: 3%;
+    padding-top: 1%;
+}
+#image1{
+    
+    
+    
+}
+#image2{
+    
+   
+    
+}
+
+
 
